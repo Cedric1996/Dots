@@ -1,0 +1,22 @@
+{
+    "name": "Unity.DotsNetKit.NetCode.Editor",
+    "references": [
+        "Unity.NetCode",
+        "Unity.Entities",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Unity.DotsNetKit.Transport",
+        "Unity.DotsNetKit.NetCode"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

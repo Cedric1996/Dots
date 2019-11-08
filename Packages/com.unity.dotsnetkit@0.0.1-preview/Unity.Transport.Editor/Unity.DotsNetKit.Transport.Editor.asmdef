@@ -1,0 +1,9 @@
+{
+    "name": "Unity.DotsNetKit.Transport.Editor",
+    "references": [
+           "Unity.DotsNetKit.Transport"
+    ],
+    "includePlatforms": [ "Editor" ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}

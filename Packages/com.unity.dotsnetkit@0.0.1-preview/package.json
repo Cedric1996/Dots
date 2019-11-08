@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.dotsnetkit",
+  "version": "0.0.1-preview",
+  "unity": "2019.3",
+  "description": "Unity DOTS network kit",
+  "dependencies": {
+    "com.unity.burst": "1.1.2",
+    "com.unity.mathematics": "1.1.0"
+  },
+  "displayName": "DotsNetKit"
+}

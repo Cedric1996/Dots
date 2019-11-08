@@ -1,0 +1,13 @@
+{
+  "name": "Unity.DotsNetKit.NetCode",
+  "references": [
+    "Unity.Burst",
+    "Unity.Entities",
+    "Unity.Entities.Hybrid",
+    "Unity.Transforms",
+    "Unity.Collections",
+    "Unity.Mathematics",
+    "Unity.DotsNetKit.Transport"
+  ],
+  "allowUnsafeCode": true
+}

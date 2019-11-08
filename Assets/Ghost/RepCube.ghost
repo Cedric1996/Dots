@@ -1,0 +1,33 @@
+{
+    "snapshotDataPath": "../Scripts/Mixed/Generated/RepCubeSnapshotData.cs",
+    "spawnSystemPath": "../Scripts/Client/Generated/RepCubeGhostSpawnSystem.cs",
+    "updateSystemPath": "../Scripts/Client/Generated/RepCubeGhostUpdateSystem.cs",
+    "serializerPath": "../Scripts/Server/Generated/RepCubeGhostSerializer.cs",
+    "importance": "1",
+    "transform2d": false,
+    "components": [
+        {
+            "name": "RepCubeComponentData",
+            "interpolatedClient": true,
+            "predictedClient": true,
+            "server": true,
+            "fields": [
+                {
+                    "name": "networkId",
+                    "quantization": 0,
+                    "interpolate": true
+                },
+                {
+                    "name": "position",
+                    "quantization": 100,
+                    "interpolate": true
+                },
+                {
+                    "name": "color",
+                    "quantization": 1000,
+                    "interpolate": true
+                }
+            ]
+        }
+    ]
+}
